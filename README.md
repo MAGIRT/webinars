@@ -17,14 +17,12 @@ Start Time:   4pm EST
 End Time:    5pm EST    	    
 Time Zones:  EST   
  
-Speaker Name: Andrew Battista and Ryan Mattke
-Speaker Overview:
+Speakers:Andrew Battista and Ryan Mattke
+
 Andrew Battista is the Librarian for Geospatial Information Systems at New York University, where he facilitates GIS data collections and access. He has taught classes on data visualization and the politics of information.
 
 Ryan Mattke is the Map & Geospatial Information Librarian at the University of Minnesota and the Project Lead for the Big Ten Academic Alliance Geospatial Data Project.      
  
-
-
 ## Webinar 2
 ### Hold a mapathon and build a community of mappers! An introduction to the Nimble Tents Toolkit and OSM.     
 
@@ -34,9 +32,8 @@ Day: May 9th
 Start Time: 4pm EST  	    
 End Time: 5pm EST       	     
  
-Speaker Name: Zoe Borovsky, Alex Gil, and Andy Rutkowski
-Speaker Overview:
-Speaker Detailed Overview:
+Speakers: Zoe Borovsky, Alex Gil, and Andy Rutkowski
+
 Zoe Borovksy is UCLA’s Librarian for Digital Research and Scholarship, where she works within the Collections, Research, and Instructional Services department as a liaison to the Digital Humanities Program, and the Anthropology department. 
 
 Alex Gil is Digital Scholarship Coordinator for the Humanities and History Division and Affiliate Faculty of the English and Comparative Literature Department at Columbia University. He serves as a consultant to faculty, students and the library on the impact of technology on humanities research, pedagogy and scholarly communications  .
@@ -53,6 +50,6 @@ Start Time: 2pm EST
 End Time: 3pm EST        	    
 Time Zones:  EST  
  
-Speaker Name: Phillip Sutton
-Speaker Overview:
+Speaker:Phillip Sutton
+
 Philip Sutton is a reference librarian at The New York Public Library's Irma and Paul Milstein Division of United States History, Local History, and Genealogy, where he also teaches and writes about genealogy and building history research. 
