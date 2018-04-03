@@ -1,15 +1,16 @@
-## MAGIRT 2018 Webinar Series
+### MAGIRT 2018 Webinar Series
 
-# OVERVIEW FOR ALL WORKSHOPS:
-Name:  MAGIRT 2018 Webinar Series: “Building Geospatial Communities”           
-Event Information:   
+## OVERVIEW FOR ALL WORKSHOPS:
+# MAGIRT 2018 Webinar Series: “Building Geospatial Communities”           
+ 
 MAGIRT proudly presents a series of webinars for anyone interested in maps, GIS, and building a geospatial community at their campus. These webinars are topical and focused on providing practical knowledge about current issues and trends. This year our webinar series will provide an introduction for getting started on creating a geospatial data discovery and preservation solution at your institution or organization, learn more about the Nimble Tents toolkit and leverage it to start up you own Mapathon, and learning more about how the New York Public Library is leading the way in developing digital tools for genealogical and community oriented research.
 
 Each webinar can be viewed by itself but we encourage that you attend all three if you can. To that end a discount will be offered if you purchase all three. The price of the webinar will also purchase a year membership to MAGIRT. All materials for webinars will be posted online afterwards.
  
-# Webinar 1
-Name:  Geospatial Data Projects: Getting Started and Keeping Momentum          
-Event Information: This webinar is designed to be an introduction to starting and maintaining a geospatial data discovery and preservation solution. While we focus on the work of the GeoBlacklight software and community, we talk about strategies for communicating the overall vision and needs for GIS data preservation and discovery, established best practices for metadata creation and management, and ways for engaging with the library community and beyond.
+## Webinar 1
+# Geospatial Data Projects: Getting Started and Keeping Momentum 
+         
+This webinar is designed to be an introduction to starting and maintaining a geospatial data discovery and preservation solution. While we focus on the work of the GeoBlacklight software and community, we talk about strategies for communicating the overall vision and needs for GIS data preservation and discovery, established best practices for metadata creation and management, and ways for engaging with the library community and beyond.
    
 Day: May 3rd, 2018
 Start Time:   4pm EST   	    
@@ -24,11 +25,11 @@ Ryan Mattke is the Map & Geospatial Information Librarian at the University of M
  
 
 
-# Webinar 2
-Name:  Hold a mapathon and build a community of mappers! An introduction to the Nimble Tents Toolkit and OSM.     
-Event Information:   This webinar will introduce participants to the Nimble Tents Toolkit, a set of resources developed to help librarians and others participate and hold mapathons quickly and easily.     
-Detailed Information:
-(max length=4000 characters)    
+## Webinar 2
+# Hold a mapathon and build a community of mappers! An introduction to the Nimble Tents Toolkit and OSM.     
+
+This webinar will introduce participants to the Nimble Tents Toolkit, a set of resources developed to help librarians and others participate and hold mapathons quickly and easily.     
+   
 Day: May 9th
 Start Time: 4pm EST  	    
 End Time: 5pm EST       	     
@@ -42,9 +43,10 @@ Alex Gil is Digital Scholarship Coordinator for the Humanities and History Divis
 
 Andy Rutkowski is the Visualization Librarian at the University of Southern California Libraries. He works with faculty and students to find and use data and other resources for making maps and visualizations.
 
-# Webinar 3
-Name:  Genealogical Research with Maps at The New York Public Library       
-Event Information: This presentation will discuss how genealogists can use cartographic collections at The New York Public Library in their research, and how the Library is working to create new digital tools that foster genealogy research by making maps more accessible.
+## Webinar 3
+# Genealogical Research with Maps at The New York Public Library       
+
+This presentation will discuss how genealogists can use cartographic collections at The New York Public Library in their research, and how the Library is working to create new digital tools that foster genealogy research by making maps more accessible.
 Detailed Information:  
 Day: May 17th	
 Start Time: 2pm EST      	    
