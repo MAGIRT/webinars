@@ -1,6 +1,6 @@
 ## MAGIRT 2018 Webinar Series
 
-#OVERVIEW FOR ALL WORKSHOPS:
+# OVERVIEW FOR ALL WORKSHOPS:
 Name:  MAGIRT 2018 Webinar Series: “Building Geospatial Communities”           
 Event Information:   
 MAGIRT proudly presents a series of webinars for anyone interested in maps, GIS, and building a geospatial community at their campus. These webinars are topical and focused on providing practical knowledge about current issues and trends. This year our webinar series will provide an introduction for getting started on creating a geospatial data discovery and preservation solution at your institution or organization, learn more about the Nimble Tents toolkit and leverage it to start up you own Mapathon, and learning more about how the New York Public Library is leading the way in developing digital tools for genealogical and community oriented research.
