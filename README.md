@@ -42,7 +42,7 @@ Alex Gil is Digital Scholarship Coordinator for the Humanities and History Divis
 
 Andy Rutkowski is the Visualization Librarian at the University of Southern California Libraries. He works with faculty and students to find and use data and other resources for making maps and visualizations.
 
-# Webinar #3
+# Webinar 3
 Name:  Genealogical Research with Maps at The New York Public Library       
 Event Information: This presentation will discuss how genealogists can use cartographic collections at The New York Public Library in their research, and how the Library is working to create new digital tools that foster genealogy research by making maps more accessible.
 Detailed Information:  
