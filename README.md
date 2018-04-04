@@ -11,7 +11,8 @@ MAGIRT proudly presents a series of webinars for anyone interested in maps, GIS,
 Each webinar can be viewed by itself but we encourage that you attend all three if you can. To that end a discount will be offered if you purchase all three. The price of the webinar will also purchase a year membership to MAGIRT. All materials for webinars will be posted online afterwards.
  
 ## Webinar 1
-### Geospatial Data Projects: Getting Started and Keeping Momentum 
+### Geospatial Data Projects: Getting Started and Keeping Momentum
+### [REGISTER FOR THIS WORKSHOP](http://www.ala.org/Template.cfm?Section=olweb&Template=/Conference/ConferenceList.cfm&ConferenceTypeCode=X) 
          
 This webinar is designed to be an introduction to starting and maintaining a geospatial data discovery and preservation solution. While we focus on the work of the GeoBlacklight software and community, we talk about strategies for communicating the overall vision and needs for GIS data preservation and discovery, established best practices for metadata creation and management, and ways for engaging with the library community and beyond.
    
@@ -27,7 +28,8 @@ Andrew Battista is the Librarian for Geospatial Information Systems at New York 
 Ryan Mattke is the Map & Geospatial Information Librarian at the University of Minnesota and the Project Lead for the Big Ten Academic Alliance Geospatial Data Project.      
  
 ## Webinar 2
-### Hold a mapathon and build a community of mappers! An introduction to the Nimble Tents Toolkit and OSM.     
+### Hold a mapathon and build a community of mappers! An introduction to the Nimble Tents Toolkit and OSM.  
+### [REGISTER FOR THIS WORKSHOP](http://www.ala.org/Template.cfm?Section=olweb&Template=/Conference/ConferenceList.cfm&ConferenceTypeCode=X)    
 
 This webinar will introduce participants to the Nimble Tents Toolkit, a set of resources developed to help librarians and others participate and hold mapathons quickly and easily.     
    
@@ -44,7 +46,8 @@ Alex Gil is Digital Scholarship Coordinator for the Humanities and History Divis
 Andy Rutkowski is the Visualization Librarian at the University of Southern California Libraries. He works with faculty and students to find and use data and other resources for making maps and visualizations.
 
 ## Webinar 3
-### Genealogical Research with Maps at The New York Public Library       
+### Genealogical Research with Maps at The New York Public Library 
+### [REGISTER FOR THIS WORKSHOP](http://www.ala.org/Template.cfm?Section=olweb&Template=/Conference/ConferenceList.cfm&ConferenceTypeCode=X)       
 
 This presentation will discuss how genealogists can use cartographic collections at The New York Public Library in their research, and how the Library is working to create new digital tools that foster genealogy research by making maps more accessible.
 Detailed Information:  
