@@ -1,5 +1,6 @@
 # MAGIRT 2018 Webinar Series
 [REGISTER FOR THE SERIES](http://www.ala.org/Template.cfm?Section=eventsconf&Template=/Conference/ConferenceList.cfm&ConferenceTypeCode=M)
+
 [REGISTER for INDIVIDUAL WORKSHOPS](http://www.ala.org/Template.cfm?Section=olweb&Template=/Conference/ConferenceList.cfm&ConferenceTypeCode=X)
 
 ## OVERVIEW FOR ALL WORKSHOPS:
