@@ -4,7 +4,9 @@
 [REGISTER for INDIVIDUAL WORKSHOPS](http://www.ala.org/Template.cfm?Section=olweb&Template=/Conference/ConferenceList.cfm&ConferenceTypeCode=X)
 
 ## OVERVIEW FOR ALL WORKSHOPS:
-### MAGIRT 2018 Webinar Series: “Building Geospatial Communities”           
+### MAGIRT 2018 Webinar Series: “Building Geospatial Communities” 
+[REGISTER FOR THE SERIES](http://www.ala.org/Template.cfm?Section=eventsconf&Template=/Conference/ConferenceList.cfm&ConferenceTypeCode=M)
+          
  
 MAGIRT proudly presents a series of webinars for anyone interested in maps, GIS, and building a geospatial community at their campus. These webinars are topical and focused on providing practical knowledge about current issues and trends. This year our webinar series will provide an introduction for getting started on creating a geospatial data discovery and preservation solution at your institution or organization, learn more about the Nimble Tents toolkit and leverage it to start up you own Mapathon, and learning more about how the New York Public Library is leading the way in developing digital tools for genealogical and community oriented research.
 
@@ -12,7 +14,7 @@ Each webinar can be viewed by itself but we encourage that you attend all three 
  
 ## Webinar 1
 ### Geospatial Data Projects: Getting Started and Keeping Momentum
-### [REGISTER FOR THIS WORKSHOP](http://www.ala.org/Template.cfm?Section=olweb&Template=/Conference/ConferenceList.cfm&ConferenceTypeCode=X) 
+[REGISTER FOR THIS WORKSHOP](http://www.ala.org/Template.cfm?Section=olweb&Template=/Conference/ConferenceList.cfm&ConferenceTypeCode=X) 
          
 This webinar is designed to be an introduction to starting and maintaining a geospatial data discovery and preservation solution. While we focus on the work of the GeoBlacklight software and community, we talk about strategies for communicating the overall vision and needs for GIS data preservation and discovery, established best practices for metadata creation and management, and ways for engaging with the library community and beyond.
    
@@ -29,7 +31,7 @@ Ryan Mattke is the Map & Geospatial Information Librarian at the University of M
  
 ## Webinar 2
 ### Hold a mapathon and build a community of mappers! An introduction to the Nimble Tents Toolkit and OSM.  
-### [REGISTER FOR THIS WORKSHOP](http://www.ala.org/Template.cfm?Section=olweb&Template=/Conference/ConferenceList.cfm&ConferenceTypeCode=X)    
+[REGISTER FOR THIS WORKSHOP](http://www.ala.org/Template.cfm?Section=olweb&Template=/Conference/ConferenceList.cfm&ConferenceTypeCode=X)    
 
 This webinar will introduce participants to the Nimble Tents Toolkit, a set of resources developed to help librarians and others participate and hold mapathons quickly and easily.     
    
@@ -47,7 +49,7 @@ Andy Rutkowski is the Visualization Librarian at the University of Southern Cali
 
 ## Webinar 3
 ### Genealogical Research with Maps at The New York Public Library 
-### [REGISTER FOR THIS WORKSHOP](http://www.ala.org/Template.cfm?Section=olweb&Template=/Conference/ConferenceList.cfm&ConferenceTypeCode=X)       
+[REGISTER FOR THIS WORKSHOP](http://www.ala.org/Template.cfm?Section=olweb&Template=/Conference/ConferenceList.cfm&ConferenceTypeCode=X)       
 
 This presentation will discuss how genealogists can use cartographic collections at The New York Public Library in their research, and how the Library is working to create new digital tools that foster genealogy research by making maps more accessible.
 Detailed Information:  
