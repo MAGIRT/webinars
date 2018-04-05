@@ -54,8 +54,8 @@ Andy Rutkowski is the Visualization Librarian at the University of Southern Cali
 This presentation will discuss how genealogists can use cartographic collections at The New York Public Library in their research, and how the Library is working to create new digital tools that foster genealogy research by making maps more accessible.
 Detailed Information:  
 Day: May 17th	
-Start Time: 2pm EST      	    
-End Time: 3pm EST        	    
+Start Time: 1:30pm EST      	    
+End Time: 2:30pm EST        	    
 Time Zones:  EST  
  
 Speaker:Phillip Sutton
